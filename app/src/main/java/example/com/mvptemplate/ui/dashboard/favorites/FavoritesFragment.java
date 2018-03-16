@@ -45,12 +45,10 @@ public class FavoritesFragment extends DaggerFragment implements FavoritesContra
 
     @Override
     public void setLoadingIndicator(boolean isLoaded) {
-
     }
 
     @Override
     public void showError(Throwable throwable) {
-
     }
 
     @Override
